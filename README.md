@@ -30,4 +30,4 @@ Looking for opportunities as a **Middle System Analyst** in **web development, f
 
 ## 📫 Contacts
 
-* Telegram: 
+* Telegram: https://t.me/p079c3ucfn85alc
