@@ -19,6 +19,7 @@ Looking for opportunities as a **Middle System Analyst** in **web development, f
 ## 📂 Portfolio
 !!! this is a demo table in development
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
+
 ---
 
 ## 📫 Contacts
