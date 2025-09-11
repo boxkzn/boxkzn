@@ -18,16 +18,7 @@ Looking for opportunities as a **Middle System Analyst** in **web development, f
 
 ## 📂 Portfolio
 !!! this is a demo table in development
-
-
-| Project                        | Description                              | Tech/Tools            |
-| ------------------------------ | ---------------------------------------- | --------------------- |
-| [API Refactoring](#)           | Improved API structure and documentation | REST, Swagger, Python |
-| [Test Product from Scratch](#) | Built MVP using constructor + Python     | Python, PostgreSQL    |
-| [Router Refactoring](#)        | Optimized routing logic                  | RabbitMQ              |
-| [Orchestrator Refactoring](#)  | Enhanced orchestration flow              | Camunda               |
-| [Documentation Hub](#)         | Wrote detailed docs for PMs and dev team | Confluence, Jira      |
-
+| #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 ---
 
 ## 📫 Contacts
