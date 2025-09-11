@@ -1,55 +1,33 @@
 # 👋 Hi, I’m Eugene
 
-I am a **System Analyst** with experience in cloud solutions, web development, and integrations.
-My goal is to grow as a **Middle System Analyst** with the perspective of reaching the **Senior** level, contributing to the development of modern digital products in **web development, fintech and banking**.
+System Analyst with experience in **cloud solutions, web apps, and integrations**.
+I focus on requirements analysis, process modeling, and API design.
+Looking for opportunities as a **Middle System Analyst** in **web development, fintech, or banking**.
 
 ---
 
-## 🛠️ Skills & Tech Stack
+## 🔧 Skills
 
-**Analysis & Design**
-* Requirements gathering and formalization (SRS, User Story, Use Case)
-* Process modeling (BPMN, UML, DFD, ERD)
-* Working with APIs and integrations (REST, OpenAPI/Swagger)
-* Creating specifications, project, and test documentation (IEEE 829, BRIEF)
-
-**Tools**
-* Confluence, Jira, Miro, Figma
-* GitLab, Postman, DBeaver, PlantUML, Camunda
-* RabbitMQ, PostgreSQL
-
-**Programming & Scripting**
-* Python (scripts, automation)
-* PowerShell, Bash
-
-**Methodologies**
-* Agile / Scrum
-* User Story Mapping, SPIDR
+* **Analysis & Design**: SRS, User Stories, BPMN, UML, ERD
+* **Tools**: Jira, Confluence, Miro, Figma, GitLab, Postman
+* **Databases & Messaging**: PostgreSQL, RabbitMQ
+* **Programming**: Python (scripts), PowerShell, Bash
+* **Methods**: Agile / Scrum
 
 ---
 
-## 💡 Strengths
+## 📂 Portfolio
 
-**Soft skills**
-* Attention to detail
-* Persistence in achieving results
-* Punctuality and responsibility
-
-**Hard skills**
-* Writing detailed project documentation and technical specifications
-* Experience in collaboration with developers, testers, and stakeholders
-* Understanding of application architecture and message brokers
-* Business process modeling
+| Project                        | Description                              | Tech/Tools            |
+| ------------------------------ | ---------------------------------------- | --------------------- |
+| [API Refactoring](#)           | Improved API structure and documentation | REST, Swagger, Python |
+| [Test Product from Scratch](#) | Built MVP using constructor + Python     | Python, PostgreSQL    |
+| [Router Refactoring](#)        | Optimized routing logic                  | RabbitMQ              |
+| [Orchestrator Refactoring](#)  | Enhanced orchestration flow              | Camunda               |
+| [Documentation Hub](#)         | Wrote detailed docs for PMs and dev team | Confluence, Jira      |
 
 ---
 
-## 🚀 Achievements
-* Refactoring of naming conventions, APIs and services
-* Built a test product from scratch (including using Python)
-* Created documentation for product managers and development teams
-* Participated in the full development cycle of cloud services
+## 📫 Contacts
 
----
-
-## 📌 Contacts
-TG: https://t.me/p079c3ucfn85alc
+* Telegram: 
