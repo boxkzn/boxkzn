@@ -8,7 +8,7 @@ Looking for opportunities as a **Middle System Analyst** in **web development, f
 
 ## Skills
 
-* **Analysis & Design**: SRS, User Stories, BPMN, UML, ERD  
+* **Analysis & Design**: SRS, User Stories, BPMN, UML, ERD, DFD  
 * **Tools**: Jira, Confluence, Miro, Figma, GitLab, Postman  
 * **Databases & Messaging**: PostgreSQL, RabbitMQ  
 * **Programming**: Python (scripts), PowerShell, Bash  
