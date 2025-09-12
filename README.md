@@ -6,7 +6,7 @@ Looking for opportunities as a **Middle System Analyst** in **web development, f
 
 ---
 
-## 🔧 Skills
+## Skills
 
 * **Analysis & Design**: SRS, User Stories, BPMN, UML, ERD
 * **Tools**: Jira, Confluence, Miro, Figma, GitLab, Postman
@@ -16,11 +16,11 @@ Looking for opportunities as a **Middle System Analyst** in **web development, f
 
 ---
 
-## 📂 Portfolio
+## Portfolio
 !!! in development
 
 ---
 
-## 📫 Contacts
+## Contacts
 
 * Telegram: https://t.me/p079c3ucfn85alc
