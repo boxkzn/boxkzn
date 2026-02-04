@@ -1,8 +1,7 @@
 # 👋 Hi, I’m Eugene
 
 System Analyst with experience in **cloud solutions, web apps, and integrations**.  
-I focus on requirements analysis, process modeling, and API design.  
-Looking for opportunities as a **System Analyst** in **web development, fintech or banking**.
+I focus on requirements analysis, process modeling, and API design.
 
 ---
 
